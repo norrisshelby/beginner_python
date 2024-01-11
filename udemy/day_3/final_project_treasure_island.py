@@ -59,7 +59,7 @@ if choice1 == "left":
             print("You didn't choose one of the colored doors in front of you. Unfortunately crows ate your body as you waited stupidly outside of the three doors.")
     else:
         print(":( You decided to swim and you were attacked by trout. Game over!")
-        print("""           ...
+        print("""...
              .####_  .
            ;#|\_|/__/|
          ;##/ / \/ \  \
